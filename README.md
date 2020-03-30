@@ -5,7 +5,7 @@ A simple app using node, express & express handlebars, sql and orm to allow the 
 ![Screenshot](example.png)
 
 ## Heroku
-* [Click here for Heroku deployment](https://git.heroku.com/arcane-harbor-12851.git)
+* [Click here for Heroku deployment](https://arcane-harbor-12851.herokuapp.com/)
 
 ### User Story
 * As a person that's hungry
